@@ -1,0 +1,6 @@
+{
+  "name": "dagwbl/esp",
+  "require": {
+    "ext-mysqli": "*"
+  }
+}
